@@ -16,7 +16,7 @@ RandomlyAwesome-Ye_Olde_Burn-1.0.0
 Moffein-No_Levelup_Heal-1.0.4
 Bubbet-PickupDiscoveryPatch-0.2.0
 SeahorseJerky-Wait_For_All_Ready_Votes-1.0.1
-Anreol-VoidQoL-1.0.3
+Anreol-VoidQoL-1.1.0
 Gnome-ChefMod-2.0.17
 Moffein-Fix_Playercount-1.2.2
 niwith-DropinMultiplayer-1.0.22
@@ -30,7 +30,7 @@ bobblet-AmongUsCommando-1.0.1
 TailLover-MewtwoArtificer-1.0.2
 SaltAndViChips-LeanFiend-1.0.5
 Harb-AssetPlusRequester-1.0.0
-ArvolyMods-LigmaObliterateRedone-1.0.3
+ArvolyMods-LigmaObliterateRedone-1.0.4
 TheMysticSword-Uwuify-1.0.0
 Zylvian-BetOnIt-1.0.2
 kinggrinyov-KingModUtilities-1.8.1
@@ -57,7 +57,6 @@ NotTsunami-TeleporterShow-1.0.0
 lemonlust-SettMod-4.3.5
 KingEnderBrine-ScrollableLobbyUI-1.7.0
 DrBibop-VRAPI-1.0.1
-CherryDye-MonsterMash-1.2.0
 Vegetableaux-Save_Turrets_From_Underpopulation-1.0.1
 EnforcerGang-MinerUnearthed-1.6.7
 EnforcerGang-Enforcer-3.3.6
@@ -69,3 +68,8 @@ EnforcerGang-HAND_OVERCLOCKED-0.2.5
 Lemner-TF2SoldierMod-0.2.1
 MAVRI-SakasamaSkins-1.0.1
 Paladin_Alliance-PaladinMod-1.5.7
+Dragonyck-Tracer-1.5.3
+kinggrinyov-Trunks-1.2.0
+egpimp-EggsUtils-1.1.1
+egpimp-EggsSkills-2.1.1
+DarkKronicle-E8Raincoat-1.0.0
