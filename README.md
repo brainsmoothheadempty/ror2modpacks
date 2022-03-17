@@ -1,6 +1,6 @@
 # Risk of Rain 2 Modpacks
 
-A collection of fun modpacks.
+A collection of fun modpacks for Risk of Rain 2.
 
 ![Risk of Rain 2 Banner](ror2_banner.jpg?raw=true "Risk of Rain 2 Banner")
 
