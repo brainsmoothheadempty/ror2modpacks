@@ -17,7 +17,7 @@ RandomlyAwesome-Ye_Olde_Burn-1.0.0
 Moffein-No_Levelup_Heal-1.0.4
 Bubbet-PickupDiscoveryPatch-0.2.0
 SeahorseJerky-Wait_For_All_Ready_Votes-1.0.1
-Anreol-VoidQoL-1.0.3
+Anreol-VoidQoL-1.1.0
 Gnome-ChefMod-2.0.17
 EnforcerGang-Enforcer-3.3.6
 EnforcerGang-HAND_OVERCLOCKED-0.2.5
@@ -45,3 +45,6 @@ dan8991iel-LunarCoinShareOnPickup-4.2.1
 JohnEdwa-RTAutoSprintEx-2.1.0
 NotTsunami-TeleporterShow-1.0.0
 KingEnderBrine-ScrollableLobbyUI-1.7.0
+DarkKronicle-E8Raincoat-1.0.0
+egpimp-EggsUtils-1.1.1
+egpimp-EggsSkills-2.1.1
