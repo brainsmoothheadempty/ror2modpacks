@@ -2,7 +2,7 @@
 
 A collection of fun modpacks for Risk of Rain 2.
 
-![Risk of Rain 2 Banner](ror2_banner.jpg?raw=true "Risk of Rain 2 Banner")
+![Risk of Rain 2 Banner](images/ror2_banner.jpg?raw=true "Risk of Rain 2 Banner")
 
 ## Using the Modpacks
 Latest versions of modpacks can be retrieved by navigating to the Releases tab, selecting the relevant modpack, and downloading the .r2z file.
