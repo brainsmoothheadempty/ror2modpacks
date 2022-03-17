@@ -23,7 +23,6 @@ To setup and import r2modman and import the modpacks, follow these steps:
 7. Click the imported/updated profile name and click the `Select profile` button.
 ![Select profile](images/modpack_setup/step3_select_profile.png?raw=true "Select profile")
 8. You should now see the following screen, with a list of installed mods. If you see a message about updating mods, click the message to update them all. When you want to play, ensure you are logged into Steam, then click the `Start modded` button in r2modman. Give it tiem to load, as it can take a while to startup for large modpacks. You can safely close the BepInEx log window when the game launches.
-
 ![Update then start modded](images/modpack_setup/step4_installed_start_modded.png?raw=true "Update then start modded")
 
 ## Modpacks
