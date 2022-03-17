@@ -38,7 +38,7 @@ kinggrinyov-Goku-2.12.0
 JavAngle-TheHouse-1.6.1
 ThinkInvis-Hypercrit-2.0.3
 TheTimesweeper-SillyItems-1.2.2
-Flyingcomputer-Exchange_Changes-1.0.7
+Flyingcomputer-Exchange_Changes-1.0.8
 MagnusMagnuson-ItemExchangeNotifier-1.4.0
 KosmosisDire-TeammateRevival-4.1.0
 Moffein-No_Void_Allies-1.0.4
@@ -58,7 +58,7 @@ lemonlust-SettMod-4.3.5
 KingEnderBrine-ScrollableLobbyUI-1.7.0
 DrBibop-VRAPI-1.0.1
 Vegetableaux-Save_Turrets_From_Underpopulation-1.0.1
-EnforcerGang-MinerUnearthed-1.6.7
+EnforcerGang-MinerUnearthed-1.6.8
 EnforcerGang-Enforcer-3.3.6
 dgosling-dgoslings_Samus_Mod-2.1.4
 bobblet-UltrakillV1_Bandit_Skin-1.0.2
@@ -73,3 +73,4 @@ kinggrinyov-Trunks-1.2.0
 egpimp-EggsUtils-1.1.1
 egpimp-EggsSkills-2.1.1
 DarkKronicle-E8Raincoat-1.0.0
+marklow-PrestigiousSkinpack-1.4.0
