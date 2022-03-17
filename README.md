@@ -14,7 +14,7 @@ To setup and import r2modman and import the modpacks, follow these steps:
 2. Extract the download anywhere and run the setup executable.
 3. Launch r2modman and select Risk of Rain 2 as your game. I recommend starring it and setting it as default.
 ![Select Risk of Rain 2](images/modpack_setup/step1_selectror2.png?raw=true "Select Risk of Rain 2")
-4. Click the `Import/Update button`.
+4. Click the `Import/Update` button.
 ![Click Import/Update](images/modpack_setup/step2_import_1.png?raw=true "Click Import/Update")
 5. Click the `Import new profile` button if you have never imported the modpack before, otherwise click the `Update existing profile` button.
 ![Import or update existing profile](images/modpack_setup/step2_import2.png?raw=true "Import or update existing profile")
