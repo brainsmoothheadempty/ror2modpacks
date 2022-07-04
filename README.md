@@ -17,7 +17,7 @@ To setup and r2modman and import the modpacks, follow these steps:
 4. Click the `Import/Update` button.
 ![Click Import/Update](images/modpack_setup/step2_import_1.png?raw=true "Click Import/Update")
 5. Click the `Import new profile` button if you have never imported the modpack before, otherwise click the `Update existing profile` button.
-![Import or update existing profile](images/modpack_setup/step2_import2.png?raw=true "Import or update existing profile")
+![Import or update existing profile](images/modpack_setup/step2_import_2.png?raw=true "Import or update existing profile")
 6. Click the `From code` button and enter the code you grabbed.
 7. Click the imported/updated profile name and click the `Select profile` button.
 ![Select profile](images/modpack_setup/step3_select_profile.png?raw=true "Select profile")
